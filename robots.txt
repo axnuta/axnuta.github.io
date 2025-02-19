@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://axnuta.csgad.com/iMF/sitemap.xml.gz
